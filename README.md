@@ -157,7 +157,7 @@ expense-tracker/
     ├── .env                     # Environment variables
     ├── .gitignore
     └── package.json 
-
+```
 ## 📖 Usage Guide
 
 ### 1. Registration & Login
