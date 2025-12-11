@@ -247,10 +247,7 @@ expense-tracker/
 ### Bill Scanner
 ![Bill Scanner](screenshots/bill-scanner.png)
 *AI-powered receipt scanning with OCR*
-
-### Demo video
-![demo-video](screenshots/demo-video.mp4)
-*Demo of the lIve working web application*
+  
 
 ## 🔧 API Endpoints
 
