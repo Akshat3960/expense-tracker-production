@@ -9,9 +9,9 @@ A comprehensive full-stack web application for managing personal finances with A
 
 ## 🌐 Live Demo
 
-- **Frontend:** [Your Deployed URL]
-- **API:** [Your API URL]
-- **API Health Check:** [Your API URL]/health
+- **Frontend:** https://expense-tracker-production-ggzu.vercel.app/ 
+- **API:** https://expense-tracker-api-ov4e.onrender.com 
+- **API Health Check:** https://expense-tracker-api-ov4e.onrender.com/health
 
 ## ✨ Features
 
