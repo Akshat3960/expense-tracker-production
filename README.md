@@ -1,4 +1,4 @@
-# 💰 MERN Expense Tracker
+# 💰 AI Powered Expense Tracker Application
 
 A comprehensive full-stack web application for managing personal finances with AI-powered bill scanning, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
